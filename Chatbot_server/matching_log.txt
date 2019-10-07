@@ -1,0 +1,12 @@
+---Sim: 0.327743, Domain: 鬧鐘, Matchee: 做
+Sim: 0.316553, Domain: 吃喝玩樂, Matchee: 做
+Sim: 0.315846, Domain: 問候, Matchee: 做
+Sim: 0.293849, Domain: 購買, Matchee: 做
+Sim: 0.219069, Domain: 天氣, Matchee: 做
+Sim: 0.208415, Domain: 觀光, Matchee: 做
+Sim: 0.193314, Domain: 住宿, Matchee: 做
+Sim: 0.187923, Domain: 股票, Matchee: 做
+Sim: 0.164712, Domain: 病症, Matchee: 做
+------Sim: 0.327743, Domain: 其他, Matchee: 做
+Sim: 0.246798, Domain: 因為疲勞, Matchee: 做
+---
