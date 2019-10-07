@@ -6,4 +6,4 @@
 This is a Chinese voice assistance written on Raspberry pi.
 
 + flow chart  
-<img src="images/architecture.png" width="30%" height="30%" />
+<img src="figures/architecture.png" width="80%" height="30%" />
