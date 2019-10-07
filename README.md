@@ -5,3 +5,5 @@
 ---
 This is a Chinese voice assistance written on Raspberry pi.
 
++ flow chart  
+<img src="images/architecture.png" width="30%" height="30%" />
