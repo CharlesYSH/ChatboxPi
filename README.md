@@ -15,7 +15,7 @@ And then we use API from Chunghwa Telecom to transform the speech to text.
 Given the input text, our dialogue system will act or reply.
 The details in our dialogue system will be described in following section.
 Next, we use another Chunghwa Telecom API transform the response to voice.
-Finally, the voice will output fm the speaker.
+Finally, the voice will output from the speaker.
 
 ---
 
